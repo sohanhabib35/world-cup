@@ -1,0 +1,32 @@
+@import url(main.css);
+
+.match {
+    padding: 53px 30px;
+    width: 100%;
+    border: 1px solid antiquewhite  ;
+    border-radius: 5px;
+}
+
+.match>* {
+    margin-top: 10px;
+}
+
+.match div {
+    margin: auto;
+}
+
+span,h2 {
+    font-weight: bold;
+    text-align: center;
+}
+
+p {text-align: center;}
+
+main, .con {
+    margin-bottom: 100px;
+}
+
+#linkedone a{
+    text-decoration: none;
+    color: black;
+}
